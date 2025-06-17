@@ -8,7 +8,7 @@ import earthImage from './../../../public/earth.jpg'
 import spaceImage from './../../../public/space.jpg'
 import satellite from './../../../public/satellitebg.png'
 import { Typography } from '@mui/material';
-import TimeLine from '../TimeLine/Timeline';
+import TimeLine from './../TimeLine/TimeLine';
 import moon from './../../../public/moon.png';
 import {SiCplusplus,SiReact,SiJavascript,SiNodedotjs,SiExpress,SiCss3,SiHtml5,SiThreedotjs} from "react-icons/si";
 import YoutubeCard from '../youtubeCard/YoutubeCard';
